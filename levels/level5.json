@@ -1,0 +1,18 @@
+{
+  "cars": [
+    {"x": 0, "y": 2, "length": 2, "direction": "H", "color": [200, 0, 0], "is_red": true},
+    {"x": 0, "y": 3, "length": 2, "direction": "H", "color": [0, 100, 255]},
+    {"x": 0, "y": 4, "length": 2, "direction": "H", "color": [0, 170, 0]},
+    {"x": 0, "y": 5, "length": 2, "direction": "H", "color": [255, 100, 0]},
+    {"x": 2, "y": 1, "length": 2, "direction": "H", "color": [150, 0, 150]},
+    {"x": 3, "y": 0, "length": 2, "direction": "H", "color": [255, 255, 0]},
+    {"x": 3, "y": 5, "length": 3, "direction": "H", "color": [160, 160, 160]},
+    {"x": 3, "y": 4, "length": 3, "direction": "H", "color": [255, 0, 255]},
+    {"x": 4, "y": 3, "length": 2, "direction": "H", "color": [0, 255, 255]},
+    {"x": 2, "y": 2, "length": 2, "direction": "V", "color": [0, 255, 0]},
+    {"x": 3, "y": 2, "length": 2, "direction": "V", "color": [255, 200, 0]},
+    {"x": 2, "y": 4, "length": 2, "direction": "V", "color": [160, 160, 160]},
+    {"x": 5, "y": 0, "length": 3, "direction": "V", "color": [255, 255, 255]},
+    {"x": 4, "y": 2, "length": 3, "direction": "V", "color": [255, 200, 0]}
+  ]
+}
