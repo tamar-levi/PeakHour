@@ -78,14 +78,10 @@ Use arrow keys or WASD to navigate the control panel, click intersections to cha
 
 ## 📸 Screenshots
 
-<details>
-<summary>Click to expand</summary>
+<img width="740" height="778" alt="image" src="https://github.com/user-attachments/assets/bd1fc2fa-9503-46d2-840d-04b8e31adeb5" />
+<img width="744" height="786" alt="image" src="https://github.com/user-attachments/assets/45946735-008c-428d-9608-3fdb4432c88f" />
 
-![Intersection View](./docs/screenshot1.png)
 
-![Leaderboard](./docs/screenshot2.png)
-
-</details>
 
 ## 🤝 Contribution
 
